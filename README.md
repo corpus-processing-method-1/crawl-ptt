@@ -18,3 +18,5 @@ export_ptt(rookie_miner, export.type = "tbl", obj.name = "tbl_result")
 tbl_result$post_info_tbl
 tbl_result$post_comment_tbl
 ```
+
+https://classroom.github.com/a/wwsS-UKI
